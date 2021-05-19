@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
  
 app.get('/', function (req, res) {
-  res.send('Hello App Runner!!')
+  res.send('自動デプロイだよ!!')
 })
  
 app.listen(80)
