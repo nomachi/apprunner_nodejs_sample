@@ -1,0 +1,14 @@
+{
+  "name": "apprunner_nodejs_sample",
+  "version": "1.0.0",
+  "description": "AWS App Runner Sample Repo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
